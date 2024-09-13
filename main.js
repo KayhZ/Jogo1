@@ -1,6 +1,6 @@
 alert("SiriBET");
 
-let limite = 10;
+let limite = 100;
 let secret_number = parseInt(Math.random()* limite+1);
 let guess;
 let guess_count = 1;
